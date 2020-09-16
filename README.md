@@ -34,11 +34,11 @@
 - [x] align-items
 - [x] justigy-content
 - [x] align-content
-- [ ] grid-auto-columns
-- [ ] grid-auto-rows
-- [ ] grid-auto-flow
-- [ ] justify-self
-- [ ] align-self
+- [x] grid-auto-columns
+- [x] grid-auto-rows
+- [x] grid-auto-flow
+- [x] justify-self
+- [x] align-self
 
 ## Keywords & Functions:
 
