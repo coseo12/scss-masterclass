@@ -4,39 +4,39 @@
 
 ## Flexbox:
 
-- [ ] flex-direction
-- [ ] flex-wrap
-- [ ] justify-content
-- [ ] aligin-items
-- [ ] align-content
-- [ ] order
-- [ ] flex-grow
-- [ ] flex-shrink
-- [ ] flex-basis
-- [ ] align-self
+- [x] flex-direction
+- [x] flex-wrap
+- [x] justify-content
+- [x] aligin-items
+- [x] align-content
+- [x] order
+- [x] align-self
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
 
 ## Grid:
 
-- [ ] grid-template-columns
-- [ ] grid-template-rows
-- [ ] grid-template-areas
-- [ ] grid-template
-- [ ] grid-column-gap
-- [ ] grid-row-gap
-- [ ] grid-gap
-- [ ] justify-items
-- [ ] align-items
-- [ ] justigy-content
-- [ ] align-content
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] column-gap
+- [x] row-gap
+- [x] gap
+- [x] grid-template-areas
+- [x] grid-template
+- [x] grid-column-start
+- [x] grid-column-end
+- [x] grid-row-start
+- [x] grid-row-end
+- [x] grid-column
+- [x] grid-row
+- [x] justify-items
+- [x] align-items
+- [x] justigy-content
+- [x] align-content
 - [ ] grid-auto-columns
 - [ ] grid-auto-rows
 - [ ] grid-auto-flow
-- [ ] grid-column-start
-- [ ] grid-column-end
-- [ ] grid-row-start
-- [ ] grid-row-end
-- [ ] grid-column
-- [ ] grid-row
 - [ ] justify-self
 - [ ] align-self
 
@@ -50,6 +50,7 @@
 - [ ] auto-fill
 
 ## SCSS:
+
 - [ ] Variables
 - [ ] Nesting
 - [ ] Partials
@@ -59,21 +60,14 @@
 
 ## To Clone:
 
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-- [ ] https://
-
-
-
-
-
-
-
+- [ ] [https://besthorrorsscenes.com/](https://besthorrorsscenes.com/)
+- [ ] [https://paint-box.com/](https://paint-box.com/)
+- [ ] [https://10x19.co/](https://10x19.co/)
+- [ ] [https://www.z-o-o.fr/](https://www.z-o-o.fr/)
+- [ ] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
+- [ ] [https://tolv.dk/](https://tolv.dk/)
+- [ ] [https://redicdavidson.co.uk/](https://redicdavidson.co.uk/)
+- [ ] [https://beige.de/](https://beige.de/)
+- [ ] [https://donicaida.com/](https://donicaida.com/)
+- [ ] [https://canalstreet.market/](https://canalstreet.market/)
+- [ ] [https://wonhundred.com/](https://wonhundred.com/)
