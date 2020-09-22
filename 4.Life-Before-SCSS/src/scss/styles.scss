@@ -1,13 +1,23 @@
-@import url("https://fonts.googleapis.com/css2?family=B612+Mono&family=DM+Serif+Display:ital@0;1&display=swap");
-@import "_variables";
-@import "_elements";
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono&family=DM+Serif+Display:ital@0;1&display=swap');
+@import '_variables';
+@import '_elements';
+@import '_mixins';
+@import '_buttons';
 
 * {
   box-sizing: border-box;
+  background: $bg;
+}
+
+button {
+  @include responsive {
+    text-decoration: none;
+    font-weight: 600;
+  }
 }
 
 body {
-  font-family: "DM Serif Display", monospace;
+  font-family: 'DM Serif Display', monospace;
   padding: 45px;
 }
 
@@ -46,7 +56,7 @@ main {
     margin-bottom: 20px;
   }
   h6 {
-    font-family: "B612 Mono";
+    font-family: 'B612 Mono';
     font-size: 12px;
     margin-bottom: 50px;
   }
@@ -58,17 +68,17 @@ main {
   grid-template-rows: 80vh;
   margin-bottom: 150px;
   .hero__img {
-    background-image: url("https://source.unsplash.com/random/");
+    background-image: url('https://source.unsplash.com/random/');
     background-position: center center;
     background-size: cover;
     &:first-child {
-      background-image: url("https://source.unsplash.com/random/1");
+      background-image: url('https://source.unsplash.com/random/1');
     }
     &:last-child {
-      background-image: url("https://source.unsplash.com/random/2");
+      background-image: url('https://source.unsplash.com/random/2');
     }
     &:nth-last-child(2) {
-      background-image: url("https://source.unsplash.com/random/3");
+      background-image: url('https://source.unsplash.com/random/3');
     }
   }
 }
